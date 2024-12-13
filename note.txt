@@ -1,0 +1,101 @@
+python main.py -t sit-up
+# or python main.py -t Army Crawl
+# or python main.py -t Bounces
+# or python main.py -t Crunches
+# or python main.py -t L-Sit-Ups
+# or python main.py -t Pop-Up-Tripod 
+# or python main.py -t Raised-Leg-Crunches
+# or python main.py -t Scissors
+# or python main.py -t Sit-Up-Elbow-Strikes
+# or python main.py -t Sitting-Punches
+# or python main.py -t Superman
+# or python main.py -t Thigh-Taps
+# or python main.py -t Accordion-Push-Ups
+# or python main.py -t Air-Bike-Crunches
+# or python main.py -t Balance-Side-Lunges
+# or python main.py -t Bear-Crawl
+# or python main.py -t Body-Saw
+# or python main.py -t Burpees-with-a-Push-Up
+# or python main.py -t Burpees-with-Rotations
+# or python main.py -t Burpees
+# or python main.py -t Butt-Kicks
+# or python main.py -t Calf-Raises
+# or python main.py -t Chest-Expansions
+# or python main.py -t Climber-Taps
+# or python main.py -t Climbers
+# or python main.py -t Close-Grip
+# or python main.py -t Curtsy-Lunges
+# or python main.py -t Dragon-Push-Ups
+# or python main.py -t Dynamic-Squats
+# or python main.py -t Elbow-Plank-Leg-Raises
+# or python main.py -t Flow-Steps
+# or python main.py -t Flutter-Kicks
+# or python main.py -t Get-Ups
+# or python main.py -t Half Way
+# or python main.py -t Half-Squat-Walk
+# or python main.py -t Heel-Taps
+# or python main.py -t High-Crunches
+# or python main.py -t High-Knees
+# or python main.py -t Hop-Heel-Clicks
+# or python main.py -t Hundreds
+# or python main.py -t Jump Squats
+# or python main.py -t Jump-Cross-Punches
+# or python main.py -t Jumping Lunges
+# or python main.py -t Jumping Ts
+# or python main.py -t Jumping-Jacks
+# or python main.py -t Knee-to-Elbow-Crunches
+# or python main.py -t Lawnmowers
+# or python main.py -t Leg-Raises
+# or python main.py -t Lunge-Step-Ups
+# or python main.py -t Lunges
+# or python main.py -t Plank Jacks
+# or python main.py -t Plank Knee-Ins
+# or python main.py -t Plank Punches
+# or python main.py -t Plank Side Crunches
+# or python main.py -t Plank Walk-Outs
+# or python main.py -t Plank-Arm-Raises
+# or python main.py -t Pop-Up-Tripod
+# or python main.py -t pull-up
+# or python main.py -t Pulse-Ups
+# or python main.py -t push-up
+# or python main.py -t Push-Ups
+# or python main.py -t Raised-Arm-Circles
+# or python main.py -t Reverse-Crunches
+# or python main.py -t Roll-Ups
+# or python main.py -t Rotations
+# or python main.py -t Scissor-Chops
+# or python main.py -t Seal-Jacks
+# or python main.py -t Shoulder-Taps
+# or python main.py -t Shrimp-Squats
+# or python main.py -t Side Jacks
+# or python main.py -t Side Leg Raises
+# or python main.py -t Side Lunges
+# or python main.py -t Side Plank
+# or python main.py -t Side Plank Knee Taps
+# or python main.py -t Side Planks
+# or python main.py -t Side Shuffle
+# or python main.py -t Side Star Planks
+# or python main.py -t Side-Arm-Raises
+# or python main.py -t Single-Leg-Bridges
+# or python main.py -t Sit-Outs
+# or python main.py -t Sit-Up-Punches
+# or python main.py -t sit-up
+# or python main.py -t Sit-Ups
+# or python main.py -t Sitting-Twists
+# or python main.py -t Skiers
+# or python main.py -t Speed Skater Slides
+# or python main.py -t Speed-Bag-Punches
+# or python main.py -t Squat-Step-Ups
+# or python main.py -t squat
+# or python main.py -t Star-Jumps
+# or python main.py -t Straight-Leg-Bounds
+# or python main.py -t Sumo-Squats
+# or python main.py -t Superman-V
+# or python main.py -t Toe-Taps
+# or python main.py -t Twist-Jacks
+# or python main.py -t Twists
+# or python main.py -t UpDown-Planks
+# or python main.py -t V-Ups
+# or python main.py -t walk
+# or python main.py -t Wide-Grip
+# or python main.py -t Windshield-Wipers
